@@ -21,3 +21,14 @@ if (x3 > 10) {
 } else {
   console.log("x3 is between 5 and 10");
 }
+
+let grade: number = 20;
+if (grade > 80) {
+  console.log("A");
+} else if (grade > 60) {
+  console.log("B");
+} else if (grade > 50) {
+  console.log("C");
+} else {
+  console.log("F");
+}
