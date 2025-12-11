@@ -1,4 +1,4 @@
-let name: string;
+let username: string;
 const greet = function greet(name: string) {
   return "Hello " + name;
 };
